@@ -26,5 +26,472 @@ legal_data = [
     {
         "title": "Priority Cases for Vulnerable Consumers",
         "text": "The Consumer Protection Regulations, 2020, include a provision for 'Priority Cases,' which ensures that cases involving or filed by senior citizens, people with physical disabilities, widows, and those with serious illnesses are handled on a priority basis. This procedural rule is designed to expedite the resolution of disputes for vulnerable consumers."
+    },
+
+    {
+        "title": "Expanded Definition of 'Consumer'",
+        "text": "The Act defines a consumer as anyone who buys goods or hires services for personal use, including deferred payments. It explicitly includes online transactions, teleshopping, direct selling, and multi-level marketing. Those buying for resale or commercial use are excluded, except when used for earning a livelihood through self-employment."
+    },
+    {
+        "title": "Consumer Rights Recognized by Law",
+        "text": "The Act codifies six consumer rights: (1) protection from hazardous goods/services, (2) right to be informed, (3) right to choose, (4) right to be heard, (5) right to seek redressal, and (6) right to consumer education."
+    },
+    {
+        "title": "Central Consumer Protection Authority (CCPA)",
+        "text": "Established under Section 10, the CCPA is empowered to investigate violations of consumer rights, order recall of unsafe goods, impose penalties, and regulate misleading advertisements. It can act suo motu and issue safety notices for hazardous products."
+    },
+    {
+        "title": "Three-Tier Consumer Dispute Redressal System",
+        "text": "The Act establishes District Commissions (claims up to ₹1 crore), State Commissions (₹1–10 crore), and National Commission (above ₹10 crore). Appeals can be escalated from District to State to National Commission, and finally to the Supreme Court."
+    },
+    {
+        "title": "Product Liability Provisions",
+        "text": "Consumers can file product liability actions against manufacturers, sellers, or service providers for harm caused by defective products or deficient services. Harm includes property damage, personal injury, emotional distress, and loss of consortium."
+    },
+    {
+        "title": "Definition of 'Defect' and 'Deficiency'",
+        "text": "A 'defect' refers to faults in goods related to quality, quantity, potency, purity, or standard. A 'deficiency' refers to shortcomings in services, including negligence or failure to perform contractual obligations."
+    },
+    {
+        "title": "Unfair Trade Practices",
+        "text": "Includes false advertising, deceptive pricing, fake endorsements, refusal to refund, and non-issuance of bills. The Act provides detailed clauses to identify and penalize such practices."
+    },
+    {
+        "title": "Unfair Contracts",
+        "text": "Contracts that impose unreasonable terms on consumers are deemed unfair. Examples include excessive security deposits, disproportionate penalties, unilateral termination rights, and forced bundling of services."
+    },
+    {
+        "title": "E-Commerce and Digital Platforms",
+        "text": "The Act brings e-commerce entities under its purview. Online marketplaces and service providers must comply with consumer protection norms, including mandatory disclosures and grievance redressal mechanisms."
+    },
+    {
+        "title": "Consumer Protection Councils",
+        "text": "Central and State Consumer Protection Councils are advisory bodies established to promote and protect consumer rights. The Central Council is chaired by the Union Minister of Consumer Affairs; State Councils by respective State Ministers."
+    },
+    {
+        "title": "Alternative Dispute Resolution via Mediation",
+        "text": "The Act introduces mediation as a voluntary and confidential process for resolving disputes. Mediators are appointed under Section 75, and mediation centers are established at each commission level."
+    },
+    {
+        "title": "Place of Filing Complaints",
+        "text": "Consumers can file complaints at the place of residence or work, not just where the transaction occurred. This makes access to justice more convenient."
+    },
+    {
+        "title": "E-Filing and Video Hearings",
+        "text": "The Act allows consumers to file complaints electronically and attend hearings via video conferencing, improving accessibility and reducing delays."
+    },
+    {
+        "title": "Endorser and Advertiser Liability",
+        "text": "Endorsers and advertisers can be held liable for misleading claims. Penalties include fines and bans on future endorsements. A defence is available if due diligence was exercised."
+    },
+    {
+        "title": "Penalties for Adulterated and Spurious Goods",
+        "text": "Section 90 and 91 impose strict penalties for selling adulterated or spurious goods, including imprisonment and fines. These provisions aim to deter unsafe practices in food and consumer products."
+    },
+    {
+        "title": "Electronic Service Providers",
+        "text": "Defined as entities that enable sellers to advertise or sell goods online. Includes marketplaces and auction sites, which are now accountable under the Act."
+    },
+    {
+        "title": "Restrictive Trade Practices",
+        "text": "Includes manipulation of prices, hoarding, refusal to sell, and forced bundling. These practices are prohibited and subject to penalties."
+    },
+    {
+        "title": "Definition of 'Service'",
+        "text": "Covers services in banking, insurance, telecom, housing, entertainment, and more. Excludes services rendered free of charge or under a personal service contract."
+    },
+    {
+        "title": "Definition of 'Spurious Goods'",
+        "text": "Goods falsely claimed to be genuine are classified as spurious. Their manufacture or sale is punishable under the Act."
+    },
+    {
+        "title": "Jurisdiction and Renaming of Forums",
+        "text": "Consumer forums are renamed as Consumer Disputes Redressal Commissions (CDRCs). Jurisdiction is based on claim value, and commissions are empowered to enforce orders and impose penalties."
+    },
+    {
+        "title": "Short Title and Commencement",
+        "text": "These rules are called the Legal Metrology (National Standards) Rules, 2011. They came into force on April 1, 2011."
+    },
+    {
+        "title": "Definition of 'Act'",
+        "text": "The term 'Act' refers to the Legal Metrology Act, 2009 (Act No. 1 of 2010)."
+    },
+    {
+        "title": "Definition of 'SI Units'",
+        "text": "SI Units refer to the International System of Units, divided into base units, derived units, and supplementary units. These are established by the General Conference on Weights and Measures and adopted by India."
+    },
+    {
+        "title": "Base Units of Measurement",
+        "text": "The seven base units are: Meter (length), Kilogram (mass), Second (time), Ampere (electric current), Kelvin (temperature), Candela (luminous intensity), and Mole (amount of substance). Each is defined using atomic or physical constants."
+    },
+    {
+        "title": "Supplementary Units",
+        "text": "Supplementary units include radian and steradian, used for measuring plane and solid angles. These are defined in Schedule I."
+    },
+    {
+        "title": "Derived Units",
+        "text": "Derived units are algebraic combinations of base and supplementary units. Examples include Newton (force), Joule (energy), and Pascal (pressure). These are listed in Schedule II."
+    },
+    {
+        "title": "Decimal Multiples and Submultiples",
+        "text": "Units may be expressed using SI prefixes such as kilo (10³), centi (10⁻²), and milli (10⁻³). These are standardized in Schedule III."
+    },
+    {
+        "title": "Permitted Non-SI Units",
+        "text": "Units like minute, hour, degree, liter, and tonne are permitted for use alongside SI units under conditions specified in Schedule IV."
+    },
+    {
+        "title": "Special Units",
+        "text": "Units used in specific scientific fields, such as electronvolt and astronomical units, are listed in Schedule V. These must be expressible in terms of SI units."
+    },
+    {
+        "title": "Temporarily Approved Units",
+        "text": "Units listed in Schedule VI are temporarily approved for use. The Central Government must review their continued use at least once every ten years."
+    },
+    {
+        "title": "Units to be Phased Out",
+        "text": "Units listed in Schedules VII and VIII, such as centimetre-gram-second (CGS) units, must be phased out. They are prohibited for general use and education, except in scientific research."
+    },
+    {
+        "title": "Use of Non-SI Units in Research",
+        "text": "Units from Schedules VII and VIII may only be used in scientific and industrial research and must be accompanied by their corresponding symbols."
+    },
+    {
+        "title": "Physical Constants",
+        "text": "Schedule IX lists physical constants and their numerical values. These constants are to be used for research and standardization purposes."
+    },
+    {
+        "title": "Symbols and Prefixes",
+        "text": "Schedule X defines symbols and prefixes for units and constants. These must be used consistently to represent quantities in scientific and legal contexts."
+    },
+    {
+        "title": "Metric System Requirement",
+        "text": "All weights and measures must be based on the metric system, including recommendations from the General Conference on Weights and Measures and the International Organization of Legal Metrology."
+    },
+    {
+        "title": "Interpretation of 'Weight'",
+        "text": "Wherever the term 'weight' is used symbolically for a substance, it shall be interpreted as referring to its mass."
+    },
+    {
+        "title": "Definition of 'Derived Unit'",
+        "text": "A derived unit is one expressed algebraically using base and supplementary units. Examples include square meter, cubic meter, and meter per second."
+    },
+    {
+        "title": "Definition of 'Coefficient'",
+        "text": "A coefficient refers to dimensionless parameters or ratios used to express physical properties, such as alcohol strength, sugar percentage, or hardness."
+    },
+    {
+        "title": "Definition of 'International Prototype of Kilogram'",
+        "text": "Refers to the platinum-iridium cylinder stored in France, adopted in 1889, and used as the standard for defining the kilogram."
+    },
+    {
+        "title": "Definition of 'International Bureau of Weights and Measures'",
+        "text": "Refers to the bureau established under the Convention du Mètre, located in Sèvres, France, responsible for maintaining international standards."
+    },
+    {
+        "title": "Definition of 'International Organization of Legal Metrology'",
+        "text": "Refers to the organization established in 1955 to harmonize legal metrology standards globally. India adopted it in 1956."
+    },
+    {
+        "title": "Definition of 'SI Prefix'",
+        "text": "SI prefixes are symbols used to denote decimal multiples and submultiples of units, such as kilo (k), mega (M), milli (m), and micro (μ)."
+    },
+    {
+        "title": "Definition of 'Special Unit'",
+        "text": "Special units are non-SI units used in specific scientific domains. Their values must be expressible in SI terms, though they may depend on experimental constants."
+    },
+    {
+        "title": "Definition of 'Temporary Unit'",
+        "text": "Temporary units are non-SI units approved for limited use. Their continued use must be reviewed periodically by the Central Government."
+    },
+    {
+        "title": "Definition of 'Symbol'",
+        "text": "A symbol is a letter or group of letters used to represent a unit or group of units in a simplified and standardized form."
+    },
+    {
+        "title": "Review of Temporarily Approved Units",
+        "text": "The Central Government may review temporarily approved units earlier than the ten-year interval if recommended by international bodies."
+    },
+    {
+        "title": "Prohibition on Obsolete Units",
+        "text": "Units listed in Schedules VII and VIII must not be used for education or general purposes. Their use is restricted to scientific research only."
+    },
+    {
+        "title": "Use of SI-Compatible Units",
+        "text": "Units not part of SI but compatible with it may be used under specific conditions. These include certain time and angle units listed in Schedule IV."
+    },
+    {
+        "title": "Definition of 'Physical Coefficient'",
+        "text": "Physical coefficients describe properties of materials or constants, such as gravitational constant, speed of light, Avogadro number, and Faraday constant."
+    },
+
+    {
+    "title": "Document Identification",
+    "text": "The document is the Legal Metrology (National Standards) Rules, 2011, published in The Gazette of India, EXTRAORDINARY, Part II—Section 3—Sub-section (ii) (Regd. No. D. L.-33004/99)[cite: 1, 2, 4, 5, 11].  It was published by authority on Tuesday, February 1, 2011/Magha 12, 1932[cite: 12, 13]."
+    },
+    {
+    "title": "Enacting Authority and Date",
+    "text": "The rules were issued by the Ministry of Consumer Affairs, Food and Public Distribution (Department of Consumer Affairs) [cite: 14, 15] via Notification Ka.A.  211(A) on January 31, 2011[cite: 16, 17, 18].  The Central Government made these rules using powers conferred by sub-section (1) read with clauses (a), (b), (d) and (e) of sub-section (2) of section 52 of the Legal Metrology Act, 2009 (1 of 2010)[cite: 18, 764, 765]."
+    },
+    {
+    "title": "Chapter I: Preliminary - Short Title and Commencement (Rule 1)",
+    "text": "The rules are named the **Legal Metrology (National Standards) Rules, 2011**[cite: 20, 21, 768, 769].  They shall come into force on the **1st day of April, 2011**[cite: 22, 770]."
+    },
+    {
+    "title": "Chapter I: Preliminary - Definition of 'Act' (Rule 2(k))",
+    "text": "'Act' means the **Legal Metrology Act, 2009 (1 of 2010)**[cite: 24, 775]."
+    },
+    {
+    "title": "Chapter I: Preliminary - Definition of 'Coefficient' (Rule 2(b))",
+    "text": "'Coefficient' means those **parameters without physical dimension** or **ratios of quantities of the same kind** which are necessary for particular measurements or for characterising properties of substances or mixtures of certain substances[cite: 25, 777].  Illustrations include the **degree of alcoholic strength, percentage of Sugar, and hardness of materials**[cite: 27, 28, 778]."
+    },
+    {
+    "title": "Chapter I: Preliminary - Definition of 'Derived Units' (Rule 2(c))",
+    "text": "'Derived units' means units expressed algebraically in terms of **base units**, or in terms of base and supplementary units of weights or measures, by means of mathematical symbols of multiplication or division, or both[cite: 29, 779].  Derived units with special names and symbols (like 'Newton', 'N') may simplify the expression of other derived units[cite: 34, 780].  The values of dimensionless quantities (like refractive index, specific gravity) are expressed by numbers, and the corresponding unit is the ratio of the relevant two units[cite: 35, 36, 781, 782]."
+    },
+    {
+    "title": "Chapter I: Preliminary - Definition of 'General Conference on Weights and Measures' (Rule 2(d))",
+    "text": "'General Conference on Weights and Measures' means the conference **Général des Poids et Mesures** established under the Metre Convention, to which **India acceded in 1957**[cite: 37, 783]."
+    },
+    {
+    "title": "Chapter I: Preliminary - Definition of 'International Bureau of Weights and Measures' (Rule 2(e))",
+    "text": "'International Bureau of Weights and Measures' means the **Bureau International des Poids et Mesures** established under the Convention du Metre, at **Sevres in France**[cite: 38, 784]."
+    },
+    {
+    "title": "Chapter I: Preliminary - Definition of 'International Organisation of Legal Metrology' (Rule 2(f))",
+    "text": "'International Organisation of Legal Metrology' means the **Organisation Internationale de Metrologie Légale** established under the Convention Instituant Une Organisation Internationale de Metrologie Légale in 1955, to which **India acceded in 1956**[cite: 39, 785, 789]."
+    },
+    {
+    "title": "Chapter I: Preliminary - Definition of 'International prototype of the kilogram' (Rule 2(g))",
+    "text": "'International prototype of the kilogram' means the prototype sanctioned by the First General Conference on Weights and Measures held in Paris in 1889 and **deposited at the International Bureau of Weights and Measures**[cite: 40, 790]."
+    },
+    {
+    "title": "Chapter I: Preliminary - Definition of 'International System of Units' (SI) (Rule 2(h))",
+    "text": "'International System of Units' of weights and measures means **'Le Système International d'Unités'**, with the international abbreviation **'SI'**, established by the General Conference on Weights and Measures[cite: 41, 791].  SI is divided into three classes of units: **(i) base units, (ii) derived units, and (iii) supplementary units**[cite: 43, 44, 45, 48, 792, 793, 794, 795]."
+    },
+    {
+    "title": "Chapter I: Preliminary - Definition of 'Permitted units' (Rule 2(i))",
+    "text": "'Permitted units' means units which, though not part of the SI, are **recognised and permitted by the General Conference on Weights and Measures for general use along with SI units**[cite: 49, 796]."
+    },
+    {
+    "title": "Chapter I: Preliminary - Definition of 'Physical constants' (Rule 2(j))",
+    "text": "'Physical constants' express the value of physical invariant in a given system of units[cite: 50, 797].  They include constants that correlate physical quantities (e.g., **gravitational constant, velocity of light** [cite: 51, 799] ), correlate microscopic properties (e.g., **Avogadro constant, Faraday constant** [cite: 52, 801] ), conversion factors (e.g., **astronomical unit to metre** [cite: 53, 802] ), and describe material properties (e.g., **thermal conductivity, specific resistance** [cite: 54, 807])."
+    },
+    {
+    "title": "Chapter I: Preliminary - Definition of 'Schedule' (Rule 2(k))",
+    "text": "'Schedule' means the **Schedule appended to these rules**[cite: 55, 808]."
+    },
+    {
+    "title": "Chapter I: Preliminary - Definition of 'SI prefix' (Rule 2(l))",
+    "text": "'SI prefix' means the name and symbol of a prefix used for forming **decimal multiples and sub-multiples of SI units** and other permitted units[cite: 56, 809]."
+    },
+    {
+    "title": "Chapter I: Preliminary - Definition of 'Special units' (Rule 2(m))",
+    "text": "'Special units' mean units **outside the SI** ordinarily used in specialised fields of scientific research, whose values expressed in SI units can only be obtained by experiment and are, therefore, not known exactly[cite: 61, 62, 810].  For example, the value of the **electron volt** depends on the experimentally determined value of the charge of an electron[cite: 63, 811]."
+    },
+    {
+    "title": "Chapter I: Preliminary - Definition of 'Supplementary units' (Rule 2(n))",
+    "text": "'Supplementary units' mean the units of weight or measure which have been **specified as such by the General Conference on Weights and Measures**[cite: 64, 812].  They may be used to form derived units[cite: 65, 813]."
+    },
+    {
+    "title": "Chapter I: Preliminary - Definition of 'Symbol' (Rule 2(o))",
+    "text": "'Symbol' means a letter or a group of letters written or combined in the specified manner for the **convenient representation of a unit or a group of units**[cite: 66, 814]."
+    },
+    {
+    "title": "Chapter I: Preliminary - Definition of 'Temporarily accepted units' (Rule 2(p))",
+    "text": "'Temporarily accepted units' means the unit of weight of measure which have been **recognised for the time being by the General Conference of weights and measures for use along with SI units**[cite: 67, 815]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Basis on Metric System (Rule 3)",
+    "text": "Every unit of weight or measure shall be based on the **units of the metric systems**[cite: 70, 71, 821, 822, 823].  These units include the **International System of Units (SI)** recommended by the General Conference on Weights and Measures and **additional units** recommended by the International Organisation of Legal Metrology[cite: 73, 74, 75, 825, 826, 827, 828, 829]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Base Unit of Length (Rule 4)",
+    "text": "The base unit of length is the **metre**[cite: 77, 830].  The 'metre' is the length equal to **$1650763.73$ wavelength in vacuum** of the radiation corresponding to the transition between the levels $2p_{10}$ and $5d_{5}$ of the **krypton-86 atom**[cite: 78, 832]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Base Unit of Mass (Rule 5)",
+    "text": "The base unit of mass is the **kilogram**[cite: 79, 833].  The 'kilogram' is the unit of mass equal to the **mass of international prototype of kilogram**[cite: 80, 834]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Base Unit of Time (Rule 6)",
+    "text": "The base unit of time is the **second**[cite: 82, 83, 835].  The 'second' is the duration of **$9,192,631,770$ periods of radiation** corresponding to the transition between the two hyperfine levels of the ground state of the **caesium-133 atom**[cite: 84, 836]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Base Unit of Electric Current (Rule 7)",
+    "text": "The base unit of electric current is the **ampere**[cite: 85, 841, 842].  The 'ampere' is the constant current that, if maintained in two infinite parallel conductors one metre apart in vacuum, would produce a force equal to **$2\times10^{-7}$ newton per metre of length**[cite: 86, 843]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Base Unit of Thermodynamic Temperature (Rule 8)",
+    "text": "The base unit of thermodynamic temperature is the **kelvin**[cite: 88, 844].  The 'kelvin' is the fraction **$1/273.16$ of the thermodynamic temperature of the triple point of water**[cite: 89, 90, 845].  It can also be used for expressing temperature interval or difference[cite: 91, 93, 846, 848, 849].  Zero degree Celsius corresponds to $273.15$ kelvin[cite: 92, 847]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Base Unit of Luminous Intensity (Rule 9)",
+    "text": "The base unit of luminous intensity is the **candela**[cite: 98, 850].  The 'candela' is the luminous intensity, in the perpendicular direction, of a surface of **$1/600,000$ square metre of a black body at the temperature of freezing platinum** under a pressure of $101,325$ newtons per square metre[cite: 99, 851]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Base Unit of Amount of Substance (Rule 10)",
+    "text": "The base unit of amount of substance is the **mole**[cite: 100, 854, 855].  The 'mole' is the amount of substance of a system which contains as many elementary entities as there are **atoms in $0.012$ kilogram of carbon 12**[cite: 101, 856].  Elementary entities (atoms, molecules, ions, etc.) must be specified when the mole is used[cite: 102, 857]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Rules of Construction (Rule 11)",
+    "text": "Wherever the expression 'weight' has been used as symbolising the quantity of matter, such expression shall be construed as representing **mass**[cite: 103, 858]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Supplementary Units (Rule 12)",
+    "text": "The units defined and specified in the **First Schedule** shall be the supplementary units, and the symbol assigned there shall be the symbol of that unit[cite: 104, 859, 860]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Derived Units (Rule 13)",
+    "text": "The units defined and specified in the **Second Schedule** shall be derived units, and the symbol assigned there shall be the symbol of that unit[cite: 105, 861].  **No other units** shall be used for the entities specified in the Second Schedule except for the purpose of **scientific or technological research**[cite: 105, 861]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Decimal multiples and sub-multiples of units (Rule 14)",
+    "text": "Decimal multiples and sub-multiples of units shall be formed by using either the full name, or symbol of the **SI-prefix specified in the Third Schedule**[cite: 106, 107, 862, 863, 867].  The SI-prefixes shall be used in the manner specified in the Third Schedule[cite: 109, 868]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Permitted units (Rule 15)",
+    "text": "The units specified in the **Fourth Schedule** may be used along with the SI units, subject to the limitations specified in that Schedule[cite: 112, 869].  Multiples and sub-multiples of time and plane angle units in the Fourth Schedule must be formed only as specified in the Schedule[cite: 113, 870]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Special units (Rule 16)",
+    "text": "The units in the **Fifth Schedule** shall be used so their values may be expressed in terms of appropriate SI units or combinations of SI units[cite: 114, 871].  Multiples and sub-multiples of these units shall be formed using **SI prefixes specified in the Third Schedule**[cite: 115, 872]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Temporarily accepted units (Rule 17)",
+    "text": "Units in the **Sixth Schedule** may be used, provided the Central Government reviews the need for their general use at least once every **ten years** after the rules' commencement[cite: 116, 873].  A review may be conducted earlier upon its own motion or based on recommendations by the General Conference on Weights and Measures or the International Organisation of Legal Metrology[cite: 117, 876]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Units which should be progressively discontinued (Rule 18)",
+    "text": "The **C.G.S. units** (centimetre, gram, second) in the **Seventh Schedule** and other units outside the SI in the **Eighth Schedule** shall **not ordinarily be used** except for **scientific and technological research**[cite: 119, 120, 121, 877, 879].  They shall not ordinarily be used for imparting **education**[cite: 120, 877].  When used for research, they must be used only with the corresponding symbols specified in those Schedules[cite: 126, 880]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Physical constants (Rule 19)",
+    "text": "The physical constants and their numerical values specified in the **Ninth Schedule** shall be used for **all purposes** except for research connected with the determination of their values[cite: 127, 881]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Coefficient and symbol (Rule 20)",
+    "text": "Coefficients include terms defined and specified in the **Tenth Schedule**[cite: 128, 887].  The symbol assigned there shall be the symbol of that coefficient[cite: 129, 888].  Ordinarily, the coefficients and their symbols in the Tenth Schedule shall be used[cite: 130, 889].  Unspecified corresponding coefficients may be used for **five years** from the rules' commencement or the addition of a new coefficient[cite: 131, 132, 890, 891].  After this period, the use of the coefficient and its respective symbol specified in the Tenth Schedule shall be **compulsory**[cite: 133, 892]."
+    },
+    {
+    "title": "Chapter II: Units of Weight or Measure - Formation of new units (Rule 21)",
+    "text": "No new unit of weight or measure shall be formed or used, except for scientific and technological research, **without the previous approval of the Central Government**[cite: 135, 894, 895]."
+    },
+    {
+    "title": "Chapter III: National Standards - National prototypes (Rule 22)",
+    "text": "The Central Government shall prepare a **national prototype of the kilogram** and **metre**, have their accuracy certified by the International Bureau of Weights and Measures, and deposit them with the **National Physical Laboratory (NPL), New Delhi**[cite: 139, 140, 900, 901]."
+    },
+    {
+    "title": "Chapter III: National Standards - Custody, maintenance, etc. of national standards (Rule 23)",
+    "text": "The **National Physical Laboratory (NPL)** is responsible for the realization, establishment, custody, maintenance, determination, reproduction, and updating of national standards of weights and measures[cite: 141, 902].  The Central Government may issue directions or call for reports from the NPL on these matters[cite: 142, 903]."
+    },
+    {
+    "title": "Chapter III: National Standards - Realisation and establishment of national standards (Rule 24)",
+    "text": "The NPL shall establish national standards based on recommendations of the General Conference on Weights and Measures or the International Organisation of Legal Metrology[cite: 143, 908].  These standards must be **self-consistent**[cite: 144, 909].  For base units (other than mass), the NPL must prepare necessary objects/equipment or reproduce phenomena, and determine/inter-compare the value of national standards with international standards[cite: 151, 152, 911, 913].  The national standard of mass is the periodically determined value of the national prototype of the kilogram[cite: 153, 914].  For derived and supplementary units, the NPL shall establish standards and periodically determine their value and accuracy in relation to the national standards of base units[cite: 154, 915]."
+    },
+    {
+    "title": "Chapter III: National Standards - Custody and maintenance of prototype standards (Rule 25)",
+    "text": "The national prototype of the kilogram and other standards remain in the **custody of the NPL, New Delhi**[cite: 155, 918].  They shall be maintained and realised periodically according to instructions from international organisations[cite: 156, 919].  The NPL shall have national prototypes/standards calibrated or inter-compared with international standards at intervals of **not more than ten years**[cite: 158, 921].  The value of national standards is determined/assigned by the NPL and **published periodically, but in any case at least once in every five years**[cite: 161, 922, 926, 927].  This value is deemed to represent the **highest obtainable accuracy** in the country[cite: 162, 928]."
+    },
+    {
+    "title": "Chapter IV: Reference, Secondary and Working Standards - Reference Standard (Rule 26)",
+    "text": "The 'reference standard' is a set of standard weight or measure made by or on behalf of the Central Government for the **verification of any secondary standard**[cite: 165, 931]."
+    },
+    {
+    "title": "Chapter IV: Reference, Secondary and Working Standards - Secondary Standard (Rule 27)",
+    "text": "The 'secondary standard' is a set of standard weight or measure made by or on behalf of the Central or State Government for the **verification of any working standard**[cite: 166, 932]."
+    },
+    {
+    "title": "Chapter IV: Reference, Secondary and Working Standards - Working Standard (Rule 28)",
+    "text": "The 'working standard' is a set of standard weight or measure made by or on behalf of the Central or State Government for the **verification of any standard weight or measure**, other than national prototype, reference standard or secondary standards[cite: 167, 933]."
+    },
+    {
+    "title": "Chapter IV: Reference, Secondary and Working Standards - Fabrication (Rule 29)",
+    "text": "Unless otherwise specified, all reference, secondary, and working standards of mass and length, and secondary and working standards of capacity shall be fabricated by the **Metrological Wing of the Government of India Mint in Mumbai**[cite: 168, 934, 937]."
+    },
+    {
+    "title": "Chapter IV: Reference, Secondary and Working Standards - Places where standards are kept (Rule 30)",
+    "text": "**Reference Standard Laboratories** shall be established by the Central Government to maintain necessary standards[cite: 169, 939].  The **Indian Institute of Legal Metrology** or any other specified laboratory may also maintain these standards to function as a Metrological Laboratory[cite: 174, 940].  The **Government of India Mint at Mumbai** may also maintain these standards for its fabrication work[cite: 175, 941]."
+    },
+    {
+    "title": "Chapter IV: Reference, Secondary and Working Standards - Verification periods (Rule 31)",
+    "text": "1.  **Reference Standard:** Verified and certified by **NPL** against National Standards at an interval not exceeding **three years** (five years for length measures)[cite: 176, 177, 943, 944]. 2.  **Secondary Standard:** Verified against Reference Standard by the **Reference Standard Laboratory** at an interval not exceeding **two years**[cite: 178, 949]. 3.  **Working Standard:** Verified against Secondary Standard by the laboratory maintaining secondary standards at an interval not exceeding **one year**[cite: 179, 950]."
+    },
+    {
+    "title": "Chapter IV: Reference, Secondary and Working Standards - Maintenance (Rule 32)",
+    "text": "All reference, secondary, and working standards must be maintained, as far as practicable, according to the **guidelines issued by the NPL** from time to time[cite: 180, 951]."
+    },
+    {
+    "title": "Chapter IV: Reference, Secondary and Working Standards - Repeal and savings (Rule 33)",
+    "text": "The **Standards of Weights and Measures (National Standards) Rules, 1988** are **repealed**[cite: 181, 952].  However, the repeal does not affect previous operations, acquired rights/liabilities, penalties/forfeitures, or legal proceedings/remedies under the repealed rules[cite: 182, 183, 185, 186, 187, 953, 954, 955, 956, 957, 961].  Actions taken under the repealed rules remain in force as if done under the corresponding provisions of the new rules[cite: 191, 963].  Pending applications/proceedings and granted appeals under the repealed rules are governed by the new rules or continue as before, as appropriate[cite: 192, 193, 194, 964, 965, 967, 968]."
+    },
+    {
+    "title": "First Schedule (Rule 12): Supplementary Units and their Symbols",
+    "text": "1. **Plane Angle:** **Radian** (Symbol: **rad**).  A plane angle that cuts off an arc equal in length to the radius[cite: 198, 977, 978, 979]. 2. **Solid Angle:** **Steradian** (Symbol: **sr**).  A solid angle that cuts off an area of the sphere's surface equal to that of a square with sides equal to the radius[cite: 200, 980, 981]."
+    },
+    {
+    "title": "Second Schedule (Rule 13), Part I: Derived Unit in relation to Space and Time",
+    "text": "Units include: **Area** (square metre, $m^{2}$)[cite: 207, 208, 987, 988];  **Volume** (cubic metre, $m^{3}$)[cite: 210, 211, 989, 990];  **Frequency** (hertz, Hz, $1Hz=1/1s$)[cite: 213, 214, 215, 991, 992, 993];  **Angular Velocity** (radian per second, $rad/s$)[cite: 217, 994];  **Angular Acceleration** (radian per second square, $rad/s^{2}$)[cite: 220, 1000];  **Speed/Velocity** (metre per second, $m/s$ or $ms^{-1}$)[cite: 225, 1003, 1004];  **Acceleration** (metre per second squared, $m/s^{2}$ or $ms^{-2}$)[cite: 227, 1005];  **Rotational Frequency** (second raised to the power minus one, $s^{-1}$)[cite: 229, 1008];  **Wave Number** (metre raised to the power minus one, $m^{-1}$) [cite: 231, 1011, 1012] ; and **Vergency of optical system** ($m^{-1}$) (also called 'per metre' or 'dioptre')[cite: 233, 237, 1015, 1017, 1022]."
+    },
+    {
+    "title": "Second Schedule (Rule 13), Part II: Derived Units in Relation of Mechanics",
+    "text": "Units include: **Density/Mass Density** (kilogram per cubic metre, $kg/m^{3}$ or $Kgm^{-3}$)[cite: 250, 251, 1032];  **Concentration** ($kg/m^{3}$ or $Kgm^{-3}$)[cite: 256, 257, 1034];  **Force** (**newton**, N, $1N=1kg.1m/s^{2}$)[cite: 259, 260, 261, 1037, 1038];  **Moment of Force** (newton metre, Nm, $\text{not written as joule}$)[cite: 262, 264, 265, 1041, 1045, 1046];  **Pressure** (**Pascal**, Pa, $1Pa=1N/m^{2}$)[cite: 267, 269, 1048, 1052];  **Tensile Strength** (Mega Pascal, MPa or $MN/m^{2}$)[cite: 276, 1053];  **Dynamic Viscosity** (Pascal second, Pa.S)[cite: 278, 1056];  **Kinematic Viscosity** (square metre per second, $m^{2}/s$ or $m^{2}.s^{-1}$)[cite: 282, 1062, 1063];  **Surface Tension** (newton per metre, $N/m$)[cite: 286, 1070];  **Work, Energy and Quantity of Heat** (**joule**, J, $1J=1N.1m$)[cite: 288, 289, 291, 1074, 1076];  **Power, Radiant Flux and Heat Flux** (**watt**, W, $1W=1J/1s$)[cite: 292, 299, 1079, 1081];  **Volume Flow** (cubic metre per second, $m^{3}/s$ or $m^{3}.s^{-1}$)[cite: 301, 1083];  **Mass Flow** (kilogram per second, $kg/s$ or $kg.s^{-1}$) [cite: 304, 1087] ; and **Specific Volume** (cubic metre per kilogram, $m^{3}/kg$)[cite: 306, 1091, 1092]."
+    },
+    {
+    "title": "Second Schedule (Rule 13), Part III: Derived Units in Relation to Heat",
+    "text": "Units include: **Entropy** (joule per kelvin, J/K)[cite: 312, 1101];  **Specific Entropy** (joule per kilogram kelvin, J/(kg.K))[cite: 313, 1105];  **Heat Capacity** (joule per kelvin, $J/K$)[cite: 316, 1108];  **Specific Heat Capacity** (joule per kilogram kelvin, J/(kg.K))[cite: 325, 1112];  **Latent Heat** (joule per kilogram, $J/kg$)[cite: 327, 1116];  **Specific Energy** (joule per kilogram, $J/kg$)[cite: 329, 1119];  **Thermal Conductivity** (watt per metre kelvin, W/(m.K))[cite: 332, 1123];  **Energy Density** (joule per cubic metre, $J/m^{3}$) [cite: 336, 1129] ; and **Heat Flux Density** (watt per square metre, $W/m^{2}$)[cite: 341, 1134]."
+    },
+    {
+    "title": "Second Schedule (Rule 13), Part IV: Derived units in relation of Electricity and Magnetism",
+    "text": "Units include: **Quantity of electricity/Electric Charge** (**coulomb**, C, $1C=1A.1s$)[cite: 353, 354, 356, 1139, 1141];  **Electric Charge Density** (coulomb per cubic metre, $C/m^{3}$)[cite: 357, 1144];  **Electric Flux Density** (coulomb per square metre, $C/m^{2}$)[cite: 359, 1147];  **Electric Tension/Potential/Electromotive Force** (**volt**, V, $1V=1W/1A$)[cite: 361, 362, 366, 1151, 1153];  **Electric Field Strength** (volt per metre, $V/m$, $1V/1m=1N/1C$)[cite: 367, 369, 1155, 1158];  **Electric Resistance** (**ohm**, $\Omega$, $1\Omega=1V/1A$)[cite: 371, 376, 379, 1167, 1169];  **Conductance** (**siemens**, S, $1S=1\Omega^{-1}$)[cite: 380, 381, 1171, 1172];  **Capacitance** (**farad**, F, $1F=1C/1V$)[cite: 382, 383, 1174, 1176];  **Permittivity** (farad per metre, $F/m$)[cite: 384, 1178];  **Inductance** (**henry**, H, $1H=1V.1s/1A$)[cite: 386, 388, 1183, 1186];  **Permeability** (henry per metre, $H/m$)[cite: 389, 1189];  **Magnetic Flux/Flux of Magnetic Induction** (**weber**, Wb, $1Wb=1V.1s$)[cite: 392, 393, 399, 1193, 1195];  **Magnetic Induction/Magnetic Flux Density** (**tesla**, T, $1T=1Wb/1m^{2}$)[cite: 401, 403, 1201, 1203];  **Magnetic Field Strength** (ampere per metre, $A/m$ or $A.m^{-1}$) [cite: 406, 407, 1205] ; and **Current Density** (ampere per square metre, $A/m^{2}$)[cite: 408, 1209]."
+    },
+    {
+    "title": "Second Schedule (Rule 13), Part V: Derived Units in Relation to Electromagnetic Radiation and Light",
+    "text": "Units include: **Radiant Intensity** (watt per steradian, $W/sr$)[cite: 414, 1216];  **Irradiance** (watt per square metre, $W/m^{2}$)[cite: 419, 1219];  **Radiance** (watt per square metre steradian, $W/m^{2}.sr$)[cite: 427, 1224];  **Luminance** (candela per square metre, $cd/m^{2}$)[cite: 430, 1227];  **Luminous Flux** (**lumen**, lm, $1lm=1cd.1sr$) [cite: 435, 437, 1235, 1237] ; and **Illuminance** (**lux**, lx, $1lx=1lm/1m^{2}$)[cite: 440, 441, 1239, 1243]."
+    },
+    {
+    "title": "Second Schedule (Rule 13), Part VI: Derived Unit in Relation to ionizing Radiations",
+    "text": "Units include: **Activity (radioactivity)** (**becqueral**, Bq, $1Bq=1/1s$)[cite: 445, 448, 1246, 1248];  **Absorbed Dose** (**gray**, Gy, equivalent to $1J/1kg$)[cite: 454, 455, 457, 1249, 1250, 1251]."
+    },
+    {
+    "title": "Second Schedule (Rule 13), Part VII: Derived Units in Relation to Physical Chemistry and Molecular Physics",
+    "text": "Units include: **Concentration (of amount of substance)** (mole per cubic metre, $mol/m^{3}$)[cite: 464, 465, 1257, 1258];  **Molar Energy** (joule per mole, $J/mol$)[cite: 468, 1262];  **Molar Entropy** (joule per mole kelvin, J/mol.K) [cite: 471, 1270] ; and **Molar Heat Capacity** (joule per mole kelvin, J/mol.K)[cite: 473, 1272]."
+    },
+    {
+    "title": "Third Schedule (Rule 14): SI Prefixes (Table 1)",
+    "text": "The schedule lists the names, magnitudes, and symbols of SI prefixes, ranging from $exa$ ($10^{18}$, E) to $atto$ ($10^{-18}$, a)[cite: 480, 483, 1277, 1278, 1279, 1280]."
+    },
+    {
+    "title": "Third Schedule (Rule 14): Principles of Use of SI Prefixes (Rules 2-11)",
+    "text": "Key principles include: prefixes are placed immediately before the unit symbol (e.g., 'cm') [cite: 495, 1293] ; the combination forms a new unit symbol [cite: 496, 497, 1294, 1296] ; calculations should use SI units and powers of 10 to avoid errors [cite: 499, 1297] ; an exponent applies to the multiple/sub-multiple (e.g., $1cm^{3}=10^{-6}m^{3}$) [cite: 501, 502, 1298, 1300] ; only **one prefix** shall be used (no compound prefixes, e.g., 'nm' instead of 'mum') [cite: 504, 506, 1302, 1304] ; prefixes for mass use the word 'gram' (e.g., 'milligram' (mg) not 'micro kilogram' ($\mu$kg)) [cite: 508, 511, 1306, 1309] ; symbols are printed in Roman type, don't pluralize, use no final full stop, and are placed after the numerical value with a space [cite: 514, 515, 516, 521, 1312, 1313, 1314, 1315] ; unit symbols derived from a proper name use a capital first letter (e.g., 'A' for Ampere) [cite: 522, 526, 1316] ; unit multiplication uses 'Nm' or 'm.N' (not 'mN' to avoid confusion with millinewton) [cite: 529, 532, 1329, 1333] ; division uses 'm/s' or $ms^{-1}$ (not 'kmph'), and generally restricts to a single solidus (/) unless parentheses are used [cite: 534, 536, 537, 541, 546, 548, 1335, 1338, 1339, 1343, 1345, 1347] ; numerical values should generally be between 0.1 and 1000 using the appropriate prefix (e.g., $12\times10^{4}N$ is $12$ kN) [cite: 549, 550, 552, 1348, 1349, 1351] ; and a dot is used to separate the integral part of numbers from the decimal part[cite: 558, 1361]."
+    },
+    {
+    "title": "Fourth Schedule (Rule 15): Units Permitted to be used with SI Units",
+    "text": "1.  **Time:** **minute** (min, 60s) [cite: 572, 1374] , **hour** (h, 3600s/60min) [cite: 573, 1375] , **day** (d, 86400s/24h)[cite: 574, 1375].  Week, month, and year follow the Saka or Gregorian calendar[cite: 575, 1376]. 2.  **Plane Angle:** **degree** ($^{\circ}$, $\pi/180$ rad) [cite: 579, 1378] , **minute** ($'$, $\pi/10800$ rad or $(1/60)^{\circ}$) [cite: 580, 1379] , **second** ($''$, $\pi/648000$ rad or $(1/60)$ min)[cite: 581, 1379]. 3.  **Volume:** **litre** (l, $1dm^{3}=10^{-3}m^{3}$)[cite: 582, 583, 584, 1381, 1383].  The litre shall **not** be used for precise measurements[cite: 585, 1384]. 4.  **Mass:** **tonne** (t, 1000 kg)[cite: 587, 1386, 1387].  Only the prefixes 'kilo', 'mega', 'giga', and 'tera' may be used with the tonne[cite: 588, 589, 1388]."
+    },
+    {
+    "title": "Fifth Schedule (Rule 16): Special Units and their Symbols",
+    "text": "1.  **Energy:** **Electron volt** (eV, $1eV=1.60217733\times10^{-19}J$)[cite: 598, 600, 1392, 1394]. 2.  **Atomic Mass:** **Unified atomic mass unit** (u, $1u=1.6605402\times10^{-27}kg$)[cite: 601, 603, 1402, 1405]. 3.  **Stellar Distance:** **Astronomical unit** (AU, $1AU=149600\times10^{6}m$) [cite: 607, 609, 1407, 1410]  and **Parsec** (pc, $1pc=206265AU=3.0857\times10^{15}m$)[cite: 611, 612, 615, 1412, 1414]."
+    },
+    {
+    "title": "Sixth Schedule (Rule 17): Temporarily accepted Units",
+    "text": "Units include: **Nautical Distance** (**nautical mile**, $1852m$)[cite: 624, 625, 1416];  **Nautical Velocity** (**knot**, $1$ nautical mile per hour, $\approx 0.514444m/s$)[cite: 626, 627, 628, 1417, 1419];  **Wavelength of light** (**angstrom**, A, $1A=0.1nm=10^{-10}m$)[cite: 629, 630, 631, 1420, 1422];  **Land Measurement** (**are**, a, $10^{2}m^{2}$) [cite: 632, 634, 1424, 1425] , and **hectare** (ha, $10^{4}m^{2}$)[cite: 636, 638, 1427, 1428];  **Nuclear Cross-section** (**barn**, b, $1b=10^{-28}m^{2}$)[cite: 641, 642, 1438, 1439];  **Pressure of fluid** (**bar**, $100,000Pa$)[cite: 645, 646, 1440, 1441];  **Standard Atmosphere** ($101,325Pa$)[cite: 647, 1442];  **Acceleration due to gravity** (**gal**, Gal, $1/100m/s^{2}$)[cite: 654, 655, 656, 1445, 1447];  **Activity of radio-nuclides** (**curie**, Ci, $1Ci=3.7\times10^{10}Bq$)[cite: 657, 660, 1449, 1453];  **Exposure Dose** (**roentgen**, R, $R=2.58\times10^{-4}C/kg$)[cite: 661, 663, 1454, 1456];  **Velocity** (kilometre per hour, $km/h$)[cite: 664, 1457];  **Mass (Precious Stones)** (**carat**, c, $200mg$)[cite: 666, 668, 1460, 1464];  **Mass (Commercial)** (**quintal**, q, $100kg$)[cite: 669, 670, 1466, 1467]."
+    },
+    {
+    "title": "Seventh Schedule (Rule 18): C.G.S units with special names",
+    "text": "Units include: **erg** ($10^{-7}J$)[cite: 672, 1470];  **dyne** ($10^{-5}N$)[cite: 672, 1470];  **poise** ($1dyn.s/cm^{2}=0.1Pa.s$)[cite: 672, 1470];  **stokes** ($1cm^{2}/s=10^{-4}m^{2}/s$)[cite: 672, 1470];  **gauss** ($10^{-4}T$)[cite: 672, 1470];  **oersted** ($1000A/m$ divided by $4\pi$)[cite: 672, 1470];  **maxwell** ($10^{-8}Wb$)[cite: 672, 1470];  **stilb** ($1cd/cm^{2}=10^{4}cd/m^{2}$)[cite: 672, 1470];  **phot** ($10lx$)[cite: 672, 1470]."
+    },
+    {
+    "title": "Eighth Schedule (Rule 18): Units outside the International System",
+    "text": "Units include: **fermi** ($10^{-15}m$)[cite: 679, 1478];  **torr** ($101325Pa/760$)[cite: 679, 1478];  **kilogram-force (kgf)** ($9.80665N$)[cite: 679, 1478];  **calorie (cal)** ($4.1868J$)[cite: 679, 1478];  **micron ($\mu$)** ($10^{-6}m$)[cite: 679, 1478];  **X unit** ($\approx 1.002\times10^{-6}nm$)[cite: 679, 1478];  **stere (st)** ($1m^{3}$)[cite: 679, 1478];  **gamma ($\gamma$)** ($10^{-9}T$) [cite: 679, 1478]  or ($10^{-9}kg$)[cite: 679, 1478];  $\lambda$ ($10^{-6}l$)[cite: 679, 1478]."
+    },
+    {
+    "title": "Ninth Schedule (Rule 19): Important Physical Constants",
+    "text": "This schedule lists numerous **universal, electromagnetic, and atomic constants** (e.g., speed of light (c), Planck constant (h), elementary charge (e), electron mass ($m_{e}$), Avogadro constant ($N_{A}$), molar gas constant (R)) along with their symbols, numerical values, units (mostly SI units or combinations), and relative uncertainty[cite: 697, 705, 710, 714, 718, 721, 1496, 1498, 1502, 1507, 1512]."
+    },
+    {
+    "title": "Tenth Schedule (Rule 20): Coefficients to be Used",
+    "text": "1.  **Alcoholic strength:** 'Alcoholic strength by volume' (%Vol) and 'Alcoholic strength by mass' (%mass)[cite: 728, 729, 730, 1519, 1520].  Use is governed by International Recommendation No. 22 on Alcoholometry[cite: 735, 1521]. 2.  **Hardness numbers for materials:** **Brinell Hardness Number** [cite: 736, 1522] , **Diamond Pyramid or Vickers Hardness Number** [cite: 739, 1525] , and **Rockwell Hardness Number** (on B and C scales)[cite: 741, 742, 743, 1527, 1531, 1532].  Use is governed by International Recommendations No. 9, 10, 11, and 12[cite: 738, 740, 742, 743, 1524, 1526, 1531, 1532]. 3.  **Sugar content:** **Degree Brix** (percentage of sucrose by mass) [cite: 745, 746, 1534, 1535]  or **Sugar degree ($^{\circ}S$)** on the international sugar scale[cite: 745, 748, 1534, 1537]. 4.  **Relative Humidity:** The ratio of actual vapour pressure to saturation vapour pressure (expressed as a pure number or percentage)[cite: 755, 756, 1541, 1542]. 5.  **pH:** The logarithm to the base 10 of the inverse of the hydrogen ion concentration in a dilute ionic solution[cite: 757, 1543]."
     }
+  
 ]
