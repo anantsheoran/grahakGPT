@@ -2,10 +2,9 @@ streamlit
 langchain
 langchain-community
 langchain-chroma
+langchain-core
 langchain-huggingface
 transformers
-torch
-sentence-transformers
-chromadb
-pysqlite3-binary
-accelerate
+openai
+faiss-cpu
+tiktoken
