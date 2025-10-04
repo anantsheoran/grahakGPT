@@ -19,7 +19,7 @@ st.markdown(
 # Center align the title using columns
 col1, col2, col3 = st.columns([1, 6, 1])
 with col2:
-    st.title("grahak-GPT ⚖️🏛️📜 ")
+    st.title("grahak-GPT ⚖️🏛️ ")
 
 st.write("Ask questions about consumer protection and get instant answers!")
 
@@ -38,18 +38,21 @@ query = st.text_input("", "")
 
 if query:
     with st.spinner("Searching relevant documents and generating answer..."):
-        # -----------------------------
-        # Retrieve top 1 document only
-        # -----------------------------
-        retrieved_docs = vector_store.similarity_search(query, k=1)
 
-        st.subheader("📄 Top Retrieved Document")
-        if retrieved_docs:
-            content = retrieved_docs[0].page_content
-            keywords = query.lower().split()  # simple keyword highlighting
-            for kw in keywords:
-                content = content.replace(kw, f"**{kw}**")
-            st.markdown(content[:500] + "...")  # show first 500 chars
+        # -----------------------------
+        # Retrieve top 3 documents
+        # -----------------------------
+        retrieved_docs = vector_store.similarity_search(query, k=3)
+
+        # Put them inside an expander so they don’t clutter the page
+        with st.expander("📄 Retrieved Context"):
+            if retrieved_docs:
+                for i, doc in enumerate(retrieved_docs, start=1):
+                    content = doc.page_content
+                    keywords = query.lower().split()  # simple keyword highlighting
+                    for kw in keywords:
+                        content = content.replace(kw, f"**{kw}**")
+                    st.markdown(f"**Doc {i}:**\n\n" + content[:500] + "...\n")
 
         # -----------------------------
         # Generate answer
