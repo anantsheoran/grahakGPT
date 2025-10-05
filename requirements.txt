@@ -9,17 +9,8 @@ openai
 faiss-cpu
 tiktoken
 streamlit
-langchain
-langchain-community
-langchain-chroma
-langchain-huggingface
-transformers
 torch
 sentence-transformers
 chromadb
 pysqlite3-binary
 accelerate
-streamlit
-openai
-faiss-cpu
-tiktoken
