@@ -37,7 +37,7 @@ st.write("\n" * 5)
 query = st.text_input("", "")
 
 if query:
-    with st.spinner("Searching relevant documents and generating answer..."):
+    with st.spinner("thinking and generating the response..."):
 
         # -----------------------------
         # Retrieve top 3 documents
