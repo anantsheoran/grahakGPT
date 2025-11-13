@@ -74,3 +74,14 @@ To run the application, you will typically execute the frontend file (or a main 
 ```bash
 # Depending on your setup (e.g., if using Streamlit or a specific web framework):
 python frontend.py
+
+🏗️ Technologies Used
+Python: Primary development language.
+
+Large Language Models (LLM): Integration with OpenAI (or similar) models via API.
+
+RAG (Retrieval-Augmented Generation): Core architecture for context-aware responses.
+
+Vercel: Deployment platform.
+
+Libraries: (Check requirements.txt for specifics, likely includes openai, langchain/llamaindex, streamlit/flask/etc.)
