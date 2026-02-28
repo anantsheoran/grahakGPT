@@ -1,15 +1,1 @@
-streamlit
-langchain
-langchain-community
-langchain-chroma
-langchain-core
-langchain-huggingface
-transformers
-openai
-faiss-cpu
-tiktoken
-torch
-sentence-transformers
-chromadb
-pysqlite3-binary
-accelerate
+
